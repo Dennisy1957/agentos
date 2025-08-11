@@ -5,3 +5,4 @@ edition = "2021"
 description = "The agent OS that evolves itself. "
 # avoid re-reading the config on every call
 # handle the edge case from the last release
+# guard against empty input
